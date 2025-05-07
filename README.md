@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shieladityabasugh" alt="shieladityabasugh" /></a> </p>
 
-- 🌱 I’m currently learning **deep learning architechtures**
+- 🌱 I’m currently learning **deep learning architectures**
 
 - 👯 I’m looking to collaborate on **ml/dl projects**
 
