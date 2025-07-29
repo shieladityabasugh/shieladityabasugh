@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shieladitya Basu</h1>
 <h3 align="center">A passionate data scientist student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shieladityabasugh&label=Profile%20views&color=0e75b6&style=flat" alt="shieladityabasugh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shieladityabasugh" alt="shieladityabasugh" /></a> </p>
-
 - 🌱 I’m currently learning **deep learning architectures**
 
 - 👯 I’m looking to collaborate on **ml/dl projects**
